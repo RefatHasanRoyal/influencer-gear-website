@@ -378,7 +378,7 @@ footer {
     .popular-collection {
         width: 100%;
         margin: 0 auto;
-        margin-top: 50px;
+        margin-top: -150px;
     }
     .popular-collection > h1 {
         text-align: center;
