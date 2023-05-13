@@ -359,6 +359,7 @@ footer {
     .ecommerce-section {
         border: none;
         width: 100%;
+        margin-top: 50px;
     }
     .ecommerce-section > ul {
         display: flex;
@@ -376,7 +377,7 @@ footer {
 
     .popular-collection {
         width: 100%;
-        margin: 0 auto;
+        margin-top: 50px;
     }
     .popular-collection > h1 {
         text-align: center;
