@@ -375,7 +375,6 @@ footer {
     /* popular collection section style  */
 
     .popular-collection {
-        margin-top: 50px;
         width: 100%;
         margin: 0 auto;
     }
@@ -383,6 +382,7 @@ footer {
         text-align: center;
         font-size: 16px;
         font-weight: 600;
+        margin-top: 0;
     }
     .cards {
         margin-top: 20px;
@@ -391,7 +391,7 @@ footer {
         gap: 15px;
         justify-content: center;
         align-items: center;
-        margin: auto auto;
+        justify-items: center;
     }
     .card{
         width: 329px;
